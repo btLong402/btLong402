@@ -111,6 +111,8 @@ I believe in continuous learning and deliberate practice.
 
 ## 📊 GitHub Statistics
 
+> Replace every `[your-github-username]` below with your exact GitHub username to keep all widgets working correctly.
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -122,6 +124,8 @@ I believe in continuous learning and deliberate practice.
 
 ## 📬 Contact Information
 
+> Replace `[your-email]` with a full address (e.g., `name@example.com`) and update all social/profile placeholders below.
+
 <p align="left">
   <a href="mailto:[your-email]">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
@@ -129,7 +133,7 @@ I believe in continuous learning and deliberate practice.
   <a href="https://www.linkedin.com/in/[your-linkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/[your-x-handle]">
+  <a href="https://x.com/[your-x-username]">
     <img src="https://img.shields.io/badge/X_(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://[your-portfolio-domain]">
